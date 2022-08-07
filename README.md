@@ -1,4 +1,6 @@
-# fort folio
+# Fort Polio
+![image](https://user-images.githubusercontent.com/37214399/183310326-0bb77b61-38d6-44fa-9662-8d238fdd3baa.png)
+
 the strongest fort
 
 Here's [MY PERSONAL WEBSITE/BLOG](https://exitflynn.github.io/blog) made with Hugo which is very much under construction as well.
@@ -10,6 +12,3 @@ Here's [MY PERSONAL WEBSITE/BLOG](https://exitflynn.github.io/blog) made with Hu
 
 
 This is a collection of all my projects.
-
-And this is also...
-# UNDER MAINTAINENCE, IF YOU CAN'T FIND THE LINK TO THE PROJECT YOU'RE LOOKING FOR, PLEASE COME BACK IN A WHILE AS I UPDATE THIS WITH LINKS
