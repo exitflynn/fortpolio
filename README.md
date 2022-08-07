@@ -3,6 +3,8 @@ the strongest fort
 
 Here's [MY PERSONAL WEBSITE/BLOG](https://exitflynn.github.io/blog) made with Hugo which is very much under construction as well.
 
+[AniWay](https://github.com/exitflynn/aniway)
+
 # [HERE'S EVERYTHING ELSE!](https://drive.google.com/drive/folders/19CncXRMmf7fcjKwKaVLq40pKkW6xbQxP?usp=sharing)
 (for the time being)
 
