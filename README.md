@@ -12,3 +12,9 @@ Here's [MY PERSONAL WEBSITE/BLOG](https://exitflynn.github.io/blog) made with Hu
 
 
 This is a collection of all my projects.
+
+
+# NOPE NEVERMIND EVERYTHING'S OUTDATED
+but you can look at my github activity for all the stuff that's not on here ;_;
+
+~~i'd very much grateful if someone went through it and PR'ed pls~~
